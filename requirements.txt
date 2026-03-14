@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+youtube-transcript-api
+openai-whisper
+fitz
+PyMuPDF
+requests
+pydantic
+python-dotenv
+openai
+slowapi
